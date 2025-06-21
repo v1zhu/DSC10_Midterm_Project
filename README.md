@@ -1,2 +1,2 @@
-**Taylor Swift Song Analysis - Principles of Data Science (DSC 10) **
+**Taylor Swift Song Analysis - Principles of Data Science (DSC 10)**
 
