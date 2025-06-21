@@ -11,34 +11,30 @@ Data: A dataset containing song lyrics, streaming metrics, and metadata from Tay
 Cleaned and processed song lyric data across multiple albums.  
 Analyzed emotional tone and subject matter using keyword-based methods.  
 Visualized trends in song themes and emotional arcs over time.  
-Built a content-based song recommender that returns similar songs based on an input
+Built a content-based song recommender that returns similar songs based on an input  
 
-**Project Structure**
-Data Visualization  
+**Project Structure**  
+Data Visualization    
 Song Recommender   
 Lyric Searcher  
 Keywords  
 
 **How to Run**
-1. Clone the repository:
-   git clone https://github.com/v1zhu/taylor-swift-analysis.git  
-   cd taylor-swift-analysis  
+1. Clone the repository:  
+   git clone https://github.com/v1zhu/Taylor_Swift_Song_Analysis.git   
+   cd taylor-swift-analysis    
 
-2. Install dependencies:
-3. Launch Jupyter Notebook:
+2. Install dependencies:  
+   pip install babypandas otter-grader ipywidgets
+   
+3. Launch Jupyter Notebook
+   
 4. Open the main notebook and run cells from the top
 
-**Example Visualizations**
-Emotional tone of lyrics across albums
-Frequency of certain words or themes
-Gender references and collaboration patterns
-
 **Learnings**
-Gained experience in data cleaning, grouping, and filtering using Pandas
-
-Applied text analysis methods to real-world lyrical data
-
-Enhanced visualization and storytelling through data
+Gained experience in data cleaning, grouping, and filtering using Pandas  
+Applied text analysis methods to real-world lyrical data  
+Enhanced visualization and storytelling through data  
 
 **Credits**
 Dataset sourced from Genius and Spotify and DSC 10
