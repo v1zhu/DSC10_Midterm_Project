@@ -31,12 +31,12 @@ Keywords
    
 4. Open the main notebook and run cells from the top
 
-**Learnings**
+**Learnings**  
 Gained experience in data cleaning, grouping, and filtering using Pandas  
 Applied text analysis methods to real-world lyrical data  
 Enhanced visualization and storytelling through data  
 
-**Credits**
+**Credits**  
 Dataset sourced from Genius and Spotify and DSC 10
 
 
