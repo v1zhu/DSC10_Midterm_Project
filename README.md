@@ -1,2 +1,2 @@
-Taylor Swift Song Analysis - 
-data analyst on Taylor Swift songs
+**Taylor Swift Song Analysis - Principles of Data Science (DSC 10) **
+
