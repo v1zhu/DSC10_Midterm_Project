@@ -7,7 +7,7 @@ Language: Python
 Tools: Pandas, Jupyter Notebook
 Data: A dataset containing song lyrics, streaming metrics, and metadata from Taylor Swift's albums.
 
-**Features**
+**Features**  
 Cleaned and processed song lyric data across multiple albums.  
 Analyzed emotional tone and subject matter using keyword-based methods.  
 Visualized trends in song themes and emotional arcs over time.  
