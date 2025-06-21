@@ -25,7 +25,7 @@ Keywords
    cd taylor-swift-analysis    
 
 2. Install dependencies:  
-   pip install babypandas otter-grader ipywidgets
+   pip install babypandas numpy ipywidgets otter-grader matplotlib
    
 3. Launch Jupyter Notebook
    
