@@ -20,6 +20,13 @@ Lyric Searcher
 Keywords  
 
 **How to Run**
+1. Clone the repository:
+   git clone https://github.com/v1zhu/taylor-swift-analysis.git  
+   cd taylor-swift-analysis  
+
+2. Install dependencies:
+3. Launch Jupyter Notebook:
+4. Open the main notebook and run cells from the top
 
 **Example Visualizations**
 Emotional tone of lyrics across albums
