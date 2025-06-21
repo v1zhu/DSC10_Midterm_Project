@@ -22,7 +22,7 @@ Keywords
 **How to Run**
 1. Clone the repository:  
    git clone https://github.com/v1zhu/Taylor_Swift_Song_Analysis.git   
-   cd taylor-swift-analysis    
+   cd Taylor_Swift_Song_Analysis
 
 2. Install dependencies:  
    pip install babypandas numpy ipywidgets otter-grader matplotlib
