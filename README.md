@@ -11,26 +11,29 @@ Data: A dataset containing song lyrics, streaming metrics, and metadata from Tay
 Cleaned and processed song lyric data across multiple albums.  
 Analyzed emotional tone and subject matter using keyword-based methods.  
 Visualized trends in song themes and emotional arcs over time.  
+Built a content-based song recommender that returns similar songs based on an input
 
 **Project Structure**
+Data Visualization  
+Song Recommender   
+Lyric Searcher  
+Keywords  
 
 **How to Run**
 
-Example Visualizations
+**Example Visualizations**
 Emotional tone of lyrics across albums
-
 Frequency of certain words or themes
-
 Gender references and collaboration patterns
 
-Learnings
+**Learnings**
 Gained experience in data cleaning, grouping, and filtering using Pandas
 
 Applied text analysis methods to real-world lyrical data
 
 Enhanced visualization and storytelling through data
 
-Credits
+**Credits**
 Dataset sourced from Genius and Spotify and DSC 10
 
 
